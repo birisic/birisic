@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi, I'm Martin</h1>
 <h3 align="center">A results-driven software engineer from Serbia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birisic" alt="birisic" /></a> </p>
