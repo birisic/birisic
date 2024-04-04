@@ -10,5 +10,5 @@
 - 📫 How to reach me:
   <ul>
     <li>Email: <b>martin.birisic@gmail.com</b></li>
-    <li>LinkedIn: <b><a href="https://www.linkedin.com/in/web-developer-martin/">LinkedIn</a></b></li>
+    <li>LinkedIn: <b><a href="https://www.linkedin.com/in/web-developer-martin/" target="_blank">LinkedIn</a></b></li>
   </ul> 
