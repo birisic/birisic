@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mastering Laravel and Vue.js, graduating ICT college and saving companies' time and money by building quality software solutions**
 
-- 🌱 I’m currently learning **TypeScript, Angular, ASP.NET Core**
+- 🌱 I’m currently learning **TypeScript, Angular and ASP.NET Core**
 
 - 💬 Ask me about **Web Development, SQL Databases, Frontend, JavaScript, Vue.js, Inertia.js, Backend, PHP, Laravel, C# .NET, RESTful APIs, AWS, DevOps, CI/CD**
 
