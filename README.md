@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Martin</h1> 
+<h2 align="left">Hi, I'm Martin</h2> 
 <h3 align="left">Software Engineer | Focused on Building Scalable and Maintainable Systems</h3>
 
 - 🔭 Working on: mastering **Laravel** and **Vue.js** by building high-quality software
