@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Martin</h1>
-<h3 align="left">A results-driven software engineer from Serbia</h3>
+<h1 align="left">Hi, I'm Martin</h1> 
+<h3 align="left">Software Engineer | Focused on Building Scalable and Maintainable Systems</h3>
 
-- 🔭 I’m currently working on **Mastering Laravel and Vue.js, graduating ICT college and saving companies' time and money by building quality software solutions**
+- 🔭 Mastering **Laravel** and **Vue.js** while building efficient, high-quality software
 
-- 🌱 I’m currently learning **TypeScript, Angular and ASP.NET Core**
+- 🌱 Learning **Go/Golang**
 
-- 💬 Ask me about **Web Development, SQL Databases, Frontend, JavaScript, Vue.js, Inertia.js, Backend, PHP, Laravel, C# .NET, RESTful APIs, AWS, DevOps, CI/CD**
+- 💬 Ask me about Software Architecture, Design Patterns, SOLID Principles, Database Design, RESTful APIs, DevOps, Backend, and Frontend Development
 
 - 📫 How to reach me:
   <ul>
