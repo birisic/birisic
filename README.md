@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Martin</h1> 
 <h3 align="left">Software Engineer | Focused on Building Scalable and Maintainable Systems</h3>
 
-- 🔭 Mastering **Laravel** and **Vue.js** while building efficient, high-quality software
+- 🔭 Working on: mastering **Laravel** and **Vue.js** by building high-quality software
 
-- 🌱 Learning **Go/Golang**
+- 🌱 Learning: **Go/Golang**
 
-- 💬 Ask me about Software Architecture, Design Patterns, SOLID Principles, Database Design, RESTful APIs, DevOps, Backend, and Frontend Development
+- 💬 Ask me about: Software Architecture, Design Patterns, SOLID Principles, Database Design, RESTful APIs, DevOps, Backend, and Frontend Development
 
 - 📫 How to reach me:
   <ul>
